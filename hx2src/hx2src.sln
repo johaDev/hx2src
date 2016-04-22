@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hx2src", "hx2src\hx2src.csproj", "{660ADAD9-F62B-49EE-A0D5-6F697D3B0F20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hx2srcTests", "hx2srcTests\hx2srcTests.csproj", "{80808609-DFD2-4216-A860-9BFE400462C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{660ADAD9-F62B-49EE-A0D5-6F697D3B0F20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{660ADAD9-F62B-49EE-A0D5-6F697D3B0F20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{660ADAD9-F62B-49EE-A0D5-6F697D3B0F20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{660ADAD9-F62B-49EE-A0D5-6F697D3B0F20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80808609-DFD2-4216-A860-9BFE400462C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80808609-DFD2-4216-A860-9BFE400462C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80808609-DFD2-4216-A860-9BFE400462C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80808609-DFD2-4216-A860-9BFE400462C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
